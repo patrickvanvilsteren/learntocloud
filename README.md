@@ -13,3 +13,5 @@ The project consist on the following topics:
 - [ ] Cloud Platform Fundamentals
 - [ ] DevOps Fundamentals
 - [ ] Securing Your Cloud Applications
+
+### This is an addition to the README.md file
