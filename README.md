@@ -14,4 +14,10 @@ The project consist on the following topics:
 - [ ] DevOps Fundamentals
 - [ ] Securing Your Cloud Applications
 
-### This is an addition to the README.md file
+### Introduction
+
+My name is Patrick van Vilsteren and I am a Technical Engineer at PAX8.
+I am interested in Cloud technology, learning Python and AI.
+
+Here is the link to my Linkedin:
+https://linkedin.com/in/pvanvilsteren
